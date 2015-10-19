@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/hahong/Desktop/android/Intent/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <drawable name="black">#000000</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <!-- From: file:/Users/hahong/Desktop/android/Intent/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="act1">Activity1</string>
+    <string name="act2">Activity2</string>
+    <string name="app_name">Intent Demo</string>
+    <string name="hello">Hello World, Activity1!</string>
+</resources>
